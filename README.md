@@ -6,8 +6,9 @@ The software analyse can be found in the "Research Document" under "Conclusion"
 
 ## Learn goals 
 1.	Learn how to manage and coach multiple people
-2.	Learn how to make a professional work flow, log
-3.	learn how to make sure that the subjects finish their projects complete and on time
+2.	Learn how to make a professional work flow and log
+3.	Learn how to make sure that the subjects finish their projects complete and on time
+4.  Learn how to write a proffessional research document
 
 ## Planning 
 *Week 1:*
@@ -35,4 +36,4 @@ Thursday - Make reflection
 Friday - Hand in reflection
 
 ## Sources
-- []
+- Example [Report Jesse Wissink](https://github.com/wesleycats/311018-ProjectManagement/blob/master/sources/Report%20Jesse%20Wissink.pdf)
