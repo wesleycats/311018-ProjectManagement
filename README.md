@@ -36,4 +36,4 @@ Thursday - Make reflection
 Friday - Hand in reflection
 
 ## Sources
-- Example [Report Jesse Wissink](https://github.com/wesleycats/311018-ProjectManagement/blob/master/sources/Report%20Jesse%20Wissink.pdf)
+- Used as example to structure own documents [Report Jesse Wissink](https://github.com/wesleycats/311018-ProjectManagement/blob/master/sources/Report%20Jesse%20Wissink.pdf)
